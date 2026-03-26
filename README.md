@@ -13,6 +13,7 @@ Responsive Design: Fully optimized for both desktop and mobile devices.
 Real-time Totals: Automatic calculation of balance, income, and expenses.
 
 🛠️ Tech Stack
+
 Frontend: React.js
 
 Database and Authentication: Firebase
